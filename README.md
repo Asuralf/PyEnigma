@@ -4,9 +4,7 @@ python 实现二战 Enigma 密码机
 ## 大致原理
 Enigma 的大致原理参考下图
 
-![EnigmaDiagram](pics/EnigmaDiagram.jpg)
-
-([图片出处](https://www.mpoweruk.com/enigma.htm))
+([原理图](https://www.mpoweruk.com/enigma.htm))
 
 同时参考视频解析：
 
